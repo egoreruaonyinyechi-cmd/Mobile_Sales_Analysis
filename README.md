@@ -92,4 +92,5 @@ ORDER BY Total Revenue DESC;
 ## Pivot Tables
 
 
-  
+  ![PIVOT REAL](https://github.com/user-attachments/assets/91dc78cb-fae0-4deb-a25e-ecb91f444dab)
+
