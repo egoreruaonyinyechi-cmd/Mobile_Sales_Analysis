@@ -101,3 +101,6 @@ ORDER BY Total Revenue DESC;
 
 
 <img width="1120" height="717" alt="power bi dashbord" src="https://github.com/user-attachments/assets/66c7d19e-fc51-4403-b730-e36cf249a1dc" />
+
+<img width="1108" height="656" alt="power bi dashbord" src="https://github.com/user-attachments/assets/8ba897ad-3fcc-4702-a9c8-5841bb5db093" />
+
