@@ -97,3 +97,5 @@ ORDER BY Total Revenue DESC;
   
 <img width="1426" height="636" alt="CHART MOBILE SALES2" src="https://github.com/user-attachments/assets/41827164-df59-440e-99a1-86857b7b434b" />
 
+### Power Bi Dashboard
+
