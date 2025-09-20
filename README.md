@@ -34,6 +34,59 @@ Tools Used:
 |6750b7d6-dcc5-48c5-a76a-b6fc9d540fe1|	2/13/2024|	summer|	Sanchez-Williams|	400.8|	95	|31322.56|	57|	Male|	East| Angelicastad|	Online|
 |7da7de95-f772-4cc2-bce0-b0873f98233e|	4/17/2024	|keep|	Greer and Sons|	338.6	79|	31159.75|	46|	Other	|East| Kevin|	Cash|
 
+## Query Languages: (SQL)
+some of the query languages to retieve records are displayed here
+
+```SQL
+--- Categorise the data into Gold, Silver and Diamond---
+
+SELECT Price,
+CASE
+WHEN Price <=100 THEN 'Silver'
+WHEN Price >= 900  THEN 'Gold'
+ELSE 'Diamond'
+END AS Category
+FROM[dbo].[mobile_sales1];
+
+```
+
+```SQL
+--- 1. Customers that buys product  btw 900 and 1000---
+SELECT * FROM[dbo].[mobile_sales1] 
+WHERE price BETWEEN 900 and 1000;
+SELECT * FROM[dbo].[mobile_sales1];
+```
+
+```SQL
+---2. Retrieve the sales by payment method, arranging from largest to smallest amount---
+SELECT (PaymentMethod), SUM (TotalRevenue) AS Sales FROM [dbo].[mobile_sales1]
+GROUP BY (PaymentMethod)
+ORDER BY Sales DESC;
+
+```
+
+```SQL
+---3. Retrieve the most expensive brand---
+SELECT MAX (Price) AS 'expensive brand', Brand FROM [dbo].[mobile_sales1]
+GROUP BY Brand
+ORDER BY 'Expensive brand' DESC;
+
+```
+
+```SQL
+---4. How many brands are there?---
+SELECT  COUNT (Distinct Brand) AS Number_of_brands FROM [dbo].[mobile_sales1];
+
+```
+
+```SQL
+--- 5.Calculate Total Revenue by Payment method---
+SELECT Payment method, SUM (Price) AS Total Revenue
+FROM [mobile_sales1]
+GROUP BY payment method
+ORDER BY Total Revenue DESC;
+
+```
 
 
   
