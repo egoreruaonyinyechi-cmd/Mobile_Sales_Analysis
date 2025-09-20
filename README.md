@@ -6,7 +6,7 @@
 ---
 
 ## Contents
-+ [Project Overview] (Project-Overview) |+[Data Source] [Data-Source]|+ [Data Source]  [Data-Source] |+ [Table Outlay] [Table-Outlay] |+ [Query Languages] (SQL) [#Query-Languages:-(SQL))|
+ [Project Overview] (Project-Overview) |+[Data Source] [Data-Source]|+ [Data Source] [Data-Source] |+ [Table Outlay] [Table-Outlay] |+ [Query Languages] (SQL) [#Query-Languages:-(SQL))|
 
  
  ## Visualization
