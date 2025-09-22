@@ -6,7 +6,7 @@
 ---
 
 ## Contents
- [Project Overview](#Project-Overview) |+[Data Source](#Data-Source)|+ [Data Source](#Data-Source) |+ [Tables Used](#Tool-Used) |+ [Table-Outlay](#Table-Outlay) |+ [Query Languages)](#Query-Languages)|+ [Visualization](#Visualization) |+|[Findings](#Findings) +[Conclusion](#Conclusion)
+ [Project Overview](#Project-Overview)| +[Data Source](#Data-Source)| + [Data Source](#Data-Source)| + [Tables Used](#Tool-Used)| + [Table-Outlay](#Table-Outlay)| + [Query Languages)](#Query-Languages)| + [Visualization](#Visualization)| +|[Findings](#Findings)| + [Summary](#Summary)| +[Conclusion](#Conclusion)
 
 ---
 
@@ -110,5 +110,7 @@ From the analysis of the Mobile Sales Dataset, key insights include:
 + We have more Female Customer sale
 + West Micheal is the highest sales location.
 + figure has the highest sales.
+
+## Summary.
 
 ## Conclusion.
