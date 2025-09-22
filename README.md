@@ -6,7 +6,7 @@
 ---
 
 ## Contents
- [Project Overview](#Project-Overview) |+[Data Source](#Data-Source)|+ [Data Source](#Data-Source) |+ [Tables Used](#Tool-Used) |+ [Table-Outlay](#Table-Outlay) |+ [Query Languages)](#Query-Languages)|+ [Visualization](#Visualization)
+ [Project Overview](#Project-Overview) |+[Data Source](#Data-Source)|+ [Data Source](#Data-Source) |+ [Tables Used](#Tool-Used) |+ [Table-Outlay](#Table-Outlay) |+ [Query Languages)](#Query-Languages)|+ [Visualization](#Visualization) |+|[Findings](#Findings) +[Conclusion](#Conclusion)
 
 ---
 
@@ -104,3 +104,6 @@ ORDER BY Total Revenue DESC;
 
 <img width="920" height="567" alt="power bi 3" src="https://github.com/user-attachments/assets/014fc7d4-945b-4a5f-b7df-230c6bd0a57b" />
 
+## Findings
+
+## Conclusion.
