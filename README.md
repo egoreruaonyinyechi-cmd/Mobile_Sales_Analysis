@@ -6,7 +6,7 @@
 ---
 
 ## Contents
- [Project Overview](#Project-Overview)| +[Data Source](#Data-Source)| + [Data Source](#Data-Source)| + [Tables Used](#Tool-Used)| + [Table-Outlay](#Table-Outlay)| + [Query Languages)](#Query-Languages)| + [Visualization](#Visualization)| +|[Findings](#Findings)| + [Summary](#Summary)| +[Conclusion](#Conclusion)
+ [Project Overview](#Project-Overview)| +[Data Source](#Data-Source)| + [Data Source](#Data-Source)| + [Tables Used](#Tool-Used)| + [Table-Outlay](#Table-Outlay)| + [Query Languages)](#Query-Languages)| + [Visualization](#Visualization)| +|[Findings](#Findings)| +[Summary](#Summary)| +[Conclusion](#Conclusion)
 
 ---
 
@@ -112,5 +112,12 @@ From the analysis of the Mobile Sales Dataset, key insights include:
 + figure has the highest sales.
 
 ## Summary.
+This project explored mobile phone sales using SQL, Excel, and Power BI to uncover business insights. The workflow included:
+Database Design & Cleaning → Structured sales, customer, dealer, and product tables.
+SQL Analysis → Wrote queries to calculate revenue, best-selling brands, customer loyalty, and seasonal trends.
+Excel Pivot Tables → Used for quick validation and trend exploration.
+Power BI Dashboard → Built interactive visualizations showing KPIs, revenue trends, and customer insights.
+The analysis provided actionable insights into customer preferences, dealer performance, and revenue growth opportunities.
+
 
 ## Conclusion.
