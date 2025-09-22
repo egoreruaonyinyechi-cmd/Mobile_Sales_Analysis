@@ -106,4 +106,9 @@ ORDER BY Total Revenue DESC;
 
 ## Findings
 
+From the analysis of the Mobile Sales Dataset, key insights include:
++ We have more Female Customer sale
++ West Micheal is the highest sales location.
++ figure has the highest sales.
+
 ## Conclusion.
