@@ -119,5 +119,16 @@ Excel Pivot Tables → Used for quick validation and trend exploration.
 Power BI Dashboard → Built interactive visualizations showing KPIs, revenue trends, and customer insights.
 The analysis provided actionable insights into customer preferences, dealer performance, and revenue growth opportunities.
 
-
 ## Conclusion.
+This Mobile Sales Analysis Project demonstrates my ability to:
+Build and query relational databases for structured analysis.
+Extract meaningful business insights using SQL.
+Use Excel for validation and quick exploration.
+Design effective Power BI dashboards for data storytelling.
+The findings show how data-driven insights can help businesses:
+Identify top-performing brands and models.
+Optimize dealer and regional strategies.
+Understand customer buying behavior.
+Forecast demand based on seasonal patterns.
+this project is a strong addition to my Data Analytics Portfolio, showcasing end-to-end skills from data cleaning to visualization.
+
